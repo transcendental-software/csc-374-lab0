@@ -1,0 +1,16 @@
+title: Lab Assignment 0
+description: Basics of Shell and Basics of C
+theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+minima:
+  skin: classic
+  social_links:
+    github: alexandru-orhean
+
+plugins: []
