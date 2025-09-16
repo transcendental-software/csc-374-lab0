@@ -13,4 +13,9 @@ minima:
   social_links:
     github: alexandru-orhean
 
+header_pages:
+  - index.md
+  - bos.md
+  - boc.md
+
 plugins: []
