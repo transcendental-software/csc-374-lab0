@@ -19,13 +19,13 @@ You will connect to the server `matrix.cdm.depaul.edu` (**cdmcscaoprd01**) via [
 Use your lowercase DePaul Campus Connect account name and password to log into the server (e.g., ALEX42 becomes alex42).
 
 ```shell
-$ ssh alex42@csc-sys.cdm.depaul.edu
+$ ssh alex42@matrix.cdm.depaul.edu
   ...
 Are you sure you want to continue connecting (yes/no/[fingerprint])?  yes
   ...
-blah42@cdmcscaoprd01.cdm.depaul.edu's password: CAMPUS CONNECT PASSWORD
-Last login: Thu Sep 10 12:33:17 2020 from 98.32.242.127
-[blah42@csc-sys ~]$
+alex42@cdmcscaoprd01's password: CAMPUS CONNECT PASSWORD
+Last login: Mon Jan 13 12:33:17 2025 from 216.220.181.92
+[alex42@cdmcscaoprd01 ~]$
 ```
 
 **Note:** If you had to use that server in a previous session, you may get an error message along the lines of:
