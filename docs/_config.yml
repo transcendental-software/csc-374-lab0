@@ -1,21 +1,18 @@
 title: Lab Assignment 0
 description: Basics of Shell and Basics of C
-theme: minima
+
+baseurl: "/csc-374-lab0"
+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
 markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter_opts:
-    block:
-      line_numbers: false
 
-minima:
-  skin: classic
-  social_links:
-    github: alexandru-orhean
-
-header_pages:
-  - index.md
-  - bos.md
-  - boc.md
-
-plugins: []
+just_the_docs:
+  color_scheme: light
+  search_enabled: true
+  nav_external_links:
+    - title: GitHub Repo
+      url: https://github.com/transcendental-software/csc-374-lab0
