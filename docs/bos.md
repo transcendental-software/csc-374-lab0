@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Requirements and Setup
+title: Basics of Shell
 nav_order: 1
 ---
 
 # Basics of Shell
 
-The following is a crash course on using the command line on UNIX or GNU/Linux systems. The prompt in these examples is simply written `$`; on the server, it will look like:
+The following is a crash course on using the command line on UNIX or GNU/Linux systems. The prompt in these examples is simply written $; on the server, it will look like:
 
 ```
 [USER@cdmcscaoprd01 ~]$
@@ -15,7 +15,7 @@ The following is a crash course on using the command line on UNIX or GNU/Linux s
 ## 1. Connecting and transferring files
 ### 1.1. SSH client
 
-You will connect to the server `matrix.cdm.depaul.edu` (cdmcscaoprd01.cdm.depaul.edu) via `[ssh](https://wikipedia.org/wiki/SSH)` and clone the lab files using `git`.
+You will connect to the server matrix.cdm.depaul.edu (cdmcscaoprd01.cdm.depaul.edu) via [ssh](https://wikipedia.org/wiki/SSH) and clone the lab files using git.
 If you use Mac OS or Linux, these are standard programs accessible through any terminal.
 If you use Windows, then I recommend using PowerShell, or WSL 2, or Git BASH, or PuTTy.
 

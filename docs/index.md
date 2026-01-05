@@ -4,7 +4,7 @@ title: Overview
 nav_order: 0
 ---
 
-# Lab Assignment 0
+# CSC 374 Lab Assignment 0
 **Jarvis College of Computing and Digital Media - DePaul University**
 
 Lab 0 is made out of two parts: Basics of Shell and Basics of C.
