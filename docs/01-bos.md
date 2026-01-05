@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Basics of Shell
-nav_order: 1
 ---
 
 # Basics of Shell

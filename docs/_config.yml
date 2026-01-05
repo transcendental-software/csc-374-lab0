@@ -3,16 +3,10 @@ description: Basics of Shell and Basics of C
 
 baseurl: "/csc-374-lab0"
 
-remote_theme: just-the-docs/just-the-docs
+remote_theme: JV-conseil/jekyll-theme-read-the-docs
+
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
 markdown: kramdown
-
-just_the_docs:
-  color_scheme: light
-  search_enabled: true
-  nav_external_links:
-    - title: GitHub Repo
-      url: https://github.com/transcendental-software/csc-374-lab0
